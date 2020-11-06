@@ -5,11 +5,16 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Darkhorse07232020&row=3&column=7&theme=gruvbox&margin-w=15&margin-h=15" />
 </p>
 
-## Welcome 🎉 to my profile. 
+## Welcome to my profile. 
 
-Talking about Personal Stuffs:
-- I'm a full-stack developer for large projects and ready to start your project anytime.
-- Enterprise application development and support
+-@- Dream is yours, Practice is mine. -@-
+<p style = "margin-left: 30px">
+Deep understanding of Mathematics and programming algorithm.<br>
+6+ years of development experience on projects ranging from small size applications through complex enterprise solutions are taken.<br>
+I can't acclimate with 99.(9)%, Only by sending 100% perfect project my Clients!<br>
+Are you looking for an honest and superior senior full stack developer?<br>
+Please contact me, I will do for you ASAP and my best to create a "Best Quality" project for my customers.
+</p>
 - How to reach me: [Skype](https://join.skype.com/invite/ojEURm8GOQPH), [Email-Outlook](mailto:darkhorse0723@outlook.com), [Email-Eclipso](mailto:darkhorse0723@eclipso.email)
 
 #### Website Development
