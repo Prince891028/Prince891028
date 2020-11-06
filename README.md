@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=kcaribou&row=2&column=3&theme=gruvbox&margin-w=15&margin-h=15"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Darkhorse07232020&row=2&column=3&theme=gruvbox&margin-w=15&margin-h=15"/>
 </p>
 
 ## Welcome 🎉 to my profile. 
@@ -26,8 +26,6 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1460579188/357/doom_lost_soul.gif" width="25" height="25"/> 
 </p>
 
-Main developer of [Scouting](https://scoutinglab.pro/) | [XPendpay](http://xpendpay.com//) | [SPS Cloud](https://spscloud.io/)
-
 Talking about Personal Stuffs:
 
 - 🔭 I'm a full-stack developer for large projects and ready to start your project anytime.
@@ -38,52 +36,6 @@ Talking about Personal Stuffs:
 - 🏯 <b>Database</b> : Mysql | MongoDB | PostgreSQL
 - 🐉 <b>CMS</b> : Wordpress | Shopify
 - 📫 Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc), Firebase, Heroku, Trello, Pusher and so on
-
-### My Followers
-<!--START_SECTION:top-followers-->
-<table>
- <tr>
-  <td align="center" width="20%">
-    <a href="https://github.com/devdreamsolution">
-      <img src="https://avatars3.githubusercontent.com/u/54434088?v=4" />
-      <br />
-      DevDreamSolution
-    </a> 
-  </td>
-
-  <td align="center" width="20%">
-    <a href="https://github.com/Sophie627">
-      <img src="https://avatars0.githubusercontent.com/u/64086022?v=4" />
-      <br />
-      Sophie
-    </a> 
-  </td>
-
-  <td align="center" width="20%">
-    <a href="https://github.com/Tortu-Ch">
-      <img src="https://avatars2.githubusercontent.com/u/65579678?v=4" />
-      <br />
-      Tortu
-    </a> 
-  </td>
-
-  <td align="center" width="20%">
-    <a href="https://github.com/olabanjy">
-      <img src="https://avatars0.githubusercontent.com/u/38687956?v=4" />
-      <br />
-      Olushola Albert
-    </a> 
-  </td>
-
-  <td align="center" width="20%">
-    <a href="https://github.com/Darkhorse07232020">
-      <img src="https://avatars3.githubusercontent.com/u/67903345?v=4" />
-      <br />
-      Darkhorse
-    </a> 
-  </td>
-</tr>
-</table>
 
 ### Skills and Tools:
 
@@ -112,5 +64,5 @@ Talking about Personal Stuffs:
 
 <p align="center">
   <img src="https://github.com/usmcamgrimm/usmcamgrimm/blob/master/code.gif" alt="I love writing code" height="195px" />
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kcaribou&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true" height="195px">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Darkhorse07232020&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true" height="195px">
 </p>
