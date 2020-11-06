@@ -50,6 +50,6 @@ Talking about Personal Stuffs:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Darkhorse07232020&theme=highcontrast&include_all_commits=true" alt="my github stats" width="420px" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Darkhorse07232020&langs_count=12&layout=compact&theme=tokyonight&include_all_commits=true" height="165px" width="420px">
+    &nbsp;
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Darkhorse07232020&langs_count=12&layout=compact&theme=tokyonight&include_all_commits=true" height="165px">
 </p>
