@@ -8,15 +8,16 @@
 ## Welcome 🎉 to my profile. 
 
 Talking about Personal Stuffs:
-- 🔭 I'm a full-stack developer for large projects and ready to start your project anytime.
-- 💬 Enterprise application development and support
+- I'm a full-stack developer for large projects and ready to start your project anytime.
+- Enterprise application development and support
+- How to reach me: [Skype](https://join.skype.com/invite/ojEURm8GOQPH), [Email-Outlook](mailto:darkhorse0723@outlook.com), [Email-Eclipso](mailto:darkhorse0723@eclipso.email)
 
 #### Website Development
-- 🌱 <b>Front-end</b> : Vuejs | Reactjs | Bootstrap
-- 💻 <b>Back-end</b> : Node.js | Django | Ruby on Rails | Laravel | Symfony | CodeIgniter
-- 🏯 <b>Database</b> : Mysql | MongoDB | PostgreSQL
-- 🐉 <b>CMS</b> : Wordpress | Shopify
-- 📫 Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc), Firebase, Heroku, Trello, Pusher and so on
+- <b>Front-end</b> : Vuejs | Reactjs | Bootstrap
+- <b>Back-end</b> : Node.js | Django | Ruby on Rails | Laravel | Symfony | CodeIgniter
+- <b>Database</b> : Mysql | MongoDB | PostgreSQL
+- <b>CMS</b> : Wordpress | Shopify
+- Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc), Firebase, Heroku, Trello, Pusher and so on
 #### Mobile Application Development
 - Android, iOS, iPad
 - Flutter/Dart
