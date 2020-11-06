@@ -1,6 +1,6 @@
 <p align="center">
     <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
-    <img src="https://github-profile-trophy.vercel.app/?username=Darkhorse07232020&row=2&column=3&theme=gruvbox&margin-w=15&margin-h=15"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Darkhorse07232020&row=2&column=3&theme=gruvbox />
 </p>
 
 ## Welcome 🎉 to my profile. 
@@ -48,5 +48,6 @@ Talking about Personal Stuffs:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Darkhorse07232020&theme=highcontrast&include_all_commits=true" alt="my github stats" width="420" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Darkhorse07232020&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true" height="165px">
 </p>
