@@ -16,6 +16,7 @@ Are you looking for an honest and superior senior full stack developer?<br>
 Please contact me, I will do for you ASAP and my best to create a "Best Quality" project for my customers.
 </p>
 - How to reach me: [Skype](https://join.skype.com/invite/ojEURm8GOQPH), [Email-Outlook](mailto:darkhorse0723@outlook.com), [Email-Eclipso](mailto:darkhorse0723@eclipso.email).
+- 📫 How to reach me: [Skype](https://join.skype.com/invite/eLjxQsvz91h5), [Email](mailto:tortuc611@gmail.com)
 
 #### Website Development
 - <b>Front-end</b> : Vuejs | Reactjs | Bootstrap
