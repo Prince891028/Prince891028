@@ -10,33 +10,37 @@
 ### Efficient Solution Provider
 
 <p style = "margin-left: 30px">
-Deep understanding of Mathematics and programming algorithm.<br>
-6+ years of development experience on projects ranging from small size applications through complex enterprise solutions are taken.<br>
-I can't acclimate with 99.(9)%, Only by sending 100% perfect project my Clients!<br>
-Are you looking for an honest and superior senior full stack developer?<br>
-Please contact me, I will do for you ASAP and my best to create a "Best Quality" project for my customers.
+Have a good experience in web & mobile developmnet<br>
+6+ years of experiences in PHP and Javascript and 4+ years of mobile development<br>
+Focus on client's requirements and aim to provide best solution with clean and clear.<br>
+If you are finding honest and experienced developer, don't hesitate to chat with me.<br>
+You will find the perfect fit developer and get the best result.
 </p>
 
 
-#### Website Development
-- <b>Front-end</b> : Vuejs | Reactjs | Bootstrap
-- <b>Back-end</b> : Node.js | Django | Ruby on Rails | Laravel | Symfony | CodeIgniter
-- <b>Database</b> : Mysql | MongoDB | PostgreSQL
-- <b>CMS</b> : Wordpress | Shopify
-- Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc), Firebase, Heroku, Trello, Pusher and so on
-#### Mobile Application Development
+#### Web development skills
+- <b>Front-end</b><br>
+   React.js * Redux | Angular.js | Vue.js | Next.js
+- <b>Back-end</b><br>
+   Node.js | Express.js | Laravel | PHP | Python | Django | CodeIgniter
+- <b>Database</b><br>
+   Mysql | MongoDB | PostgreSQL
+- <b>Other</b><br>
+   Git | Slack | Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc) | Firebase | Heroku | Trello | Jira
+   
+#### Mobile development skills
 - Android, iOS, iPad
 - Flutter/Dart
 - React Native
-- SQLite, Google Firebase
+- SQLite, Firebase
 
 ### Skills and Tools:
 
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
