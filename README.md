@@ -23,6 +23,7 @@ You will find the perfect fit developer and get the best result.
    Mysql | MongoDB | PostgreSQL
 - <b>Other</b><br>
    Git | Slack | Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc) | Firebase | Heroku | Trello | Jira
+   Testing library(Jest | Mocha | Chai)
    
 #### Mobile development skills
 - Flutter / Dart / Firebase
