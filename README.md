@@ -16,6 +16,8 @@ You will find the perfect fit developer and get the best result.
    React.js * Redux | Angular.js | Vue.js | Next.js
 - <b>Back-end</b><br>
    Node.js | Express.js | Laravel | PHP | Python | Django | CodeIgniter
+- <b>CMS</b><br>
+   WordPress | Shopify | Drupal | OpenCart | XCart
 - <b>Database</b><br>
    Mysql | MongoDB | PostgreSQL
 - <b>Other</b><br>
