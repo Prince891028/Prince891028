@@ -3,7 +3,7 @@
 # Efficient Solution Provider
 
 <p style = "margin-left: 30px">
-Have a good experience in web & mobile developmnet<br>
+Have a good experience in web & mobile development<br>
 6+ years of experiences in PHP and Javascript and 4+ years of mobile development<br>
 Focus on client's requirements and aim to provide best solution with clean and clear.<br>
 If you are finding honest and experienced developer, don't hesitate to chat with me.<br>
