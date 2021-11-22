@@ -57,7 +57,7 @@
 <code><img height="35" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2c.png"></code>
 
 - <b>Front-end</b><br>
-   React.js | Redux | Next | Angular | Vue | Nuxt
+   React.js | Redux | Next | Angular | Vue | Nuxt | Bootstrap | TailwindCSS
 - <b>Back-end</b><br>
    Node.js | Express.js | Laravel | PHP | Python | Django | CodeIgniter
 - <b>CMS</b><br>
