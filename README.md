@@ -2,15 +2,6 @@
 
 # Efficient Solution Provider
 
-<p style = "margin-left: 30px">
-Have a good experience in web & mobile development<br>
-6+ years of experiences in PHP and Javascript and 4+ years of mobile development<br>
-Focus on client's requirements and aim to provide best solution with clean and clear.<br>
-If you are finding honest and experienced developer, don't hesitate to chat with me.<br>
-You will find the perfect fit developer and get the best result.
-</p>
-
-
 #### Web development skills
 - <b>Front-end</b><br>
    React.js * Redux | Angular.js | Vue.js | Next.js
