@@ -10,6 +10,13 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Prince891028&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=30">  
 </p>
 
+## Who am I and what I can provide
+
+- Experienced web & mobile developer with over 6 years of experience in development <br />
+- High level English communication and team collaboration <br />
+- I am eager to learn and stay up to date with new techniques and enjoy writing high-quality code <br />
+- Provide full time service on flexible time zone <br />
+
 ## Web development skills & Tools
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
