@@ -16,7 +16,7 @@
 - I am eager to learn and stay up to date with new techniques and enjoy writing high-quality code <br />
 - Provide full time service on flexible time zone <br />
 
-<p align = "center" style="margin-top: 20px">
+<p align = "center" style="margin: 20px 0px;">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Prince891028&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=30">  
 </p>
 
