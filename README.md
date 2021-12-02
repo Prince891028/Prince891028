@@ -82,12 +82,4 @@
 - React Native
 - Swift
 
-<div align="center">
-  <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-  <p align="start">
-    Email: prince891028@gmail.com <br />
-    Skype: live:.cid.a3dd0be5ced7b57c <br />
-    Telegram: @olegpostoev <br />
-    Whatsapp: +16018460767
-  </p>
-</div>
+
