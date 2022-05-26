@@ -5,81 +5,74 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Prince891028&column=8&theme=onedark"/>
 </p>
 
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Prince891028&show_icons=true&&include_all_commits=true&count_private=true&theme=tokyonight&line_height=24">
-</p>
+---
 
-## Who am I and what I can provide
+### 📊 Stats
 
-- Experienced web & mobile developer with over 6 years of experience in development <br />
-- High level English communication and team collaboration <br />
-- I am eager to learn and stay up to date with new techniques and enjoy writing high-quality code <br />
-- Provide full time service on flexible time zone <br />
+<img src="https://github-readme-stats.vercel.app/api?username=Prince891028&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="rakesh's github stats" width="48%" align="right" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince891028&theme=tokyonight&hide_border=true" alt="Prince's github streak" width="48%" >
 
-<p align = "center" style="margin: 20px 0px;">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Prince891028&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=30">  
-</p>
+---
 
-## Web development skills & Tools
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png"></code>
-<code><img height="35" src="https://www.andre-abt.com/content/1-home/vuex.svg"></code>
-<code><img height="35" src="https://bestofjs.org/logos/vuetify.svg"></code>
-<code><img height="35" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
-<code><img height="35" src="https://www.chartjs.org/media/logo-title.svg"></code>
-<code><img height="35" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
-<code><img height="35" src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" ></code>
-<code><img height="35" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="35" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/pwa.png"></code>
-<code><img height="35" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/4b228024863997.5633b53b3205f.png"></code>
-<code><img height="35" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/erp.png"></code>
-<code><img height="35" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/crm.png"></code>
-<code><img height="35" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2b.png"></code>
-<code><img height="35" src="https://github.com/Tortu-Ch/Tortu-ch/blob/master/img/b2c.png"></code>
+### 🧑‍💻 Languages
 
-- <b>Front-end</b><br>
-   React.js | Redux | Next | Angular | Vue | Nuxt | Bootstrap | TailwindCSS
-- <b>Back-end</b><br>
-   Node.js | Express.js | Laravel | PHP | Python | Django | CodeIgniter
-- <b>CMS</b><br>
-   WordPress | Shopify | Drupal | OpenCart | XCart
-- <b>Database</b><br>
-   Mysql | MongoDB | PostgreSQL
-- <b>Other</b><br>
-   Git | Slack | Amazon Web Services (Lambda, EC2, S3, Route53, DynamoDB, etc) | Firebase | Heroku | Trello | Jira
-   Testing library(Jest | Mocha | Chai)
-   
-## Mobile development skills & Tools
+[![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]
+[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]
+[![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)]
+[![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)]
+[![dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart&logoColor=white)]
+[![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]
+[![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]
+[![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]
+[![sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]
 
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+### 🧩 Frameworks/Libraries
 
-- Flutter / Dart / Firebase
-- React Native
-- Swift
+[![react](https://img.shields.io/badge/React-656660?style=for-the-badge&logo=react&logoColor=61DAFB)]
+[![react](https://img.shields.io/badge/Angular-000000?style=for-the-badge&logo=angular&logoColor=ff4444)]
+[![react](https://img.shields.io/badge/Vue-323330?style=for-the-badge&logo=vue.js&logoColor=22aa22)]
+[![nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)]
+[![expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)]
+[![flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]
+[![react-native](https://img.shields.io/badge/ReactNative-CB3837?style=for-the-badge&logo=android&logoColor=white)]
+[![flutter](https://img.shields.io/badge/Flutter-2CA5E0?style=for-the-badge&logo=flutter&logoColor=white)]
+[![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)]
+[![sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)]
+[![material ui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)]
+[![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]
+[![jest](https://img.shields.io/badge/Jest-3775A9?style=for-the-badge&logo=jest&logoColor=white)]
 
+### 🗃️ Databases
 
+[![mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]
+[![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)]
+
+### ⚒️ Tools
+
+[![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://itsrakesh.co)
+[![heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](https://itsrakesh.co)
+[![firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)](https://itsrakesh.co)
+[![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://itsrakesh.co)
+[![postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://itsrakesh.co)
+[![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://itsrakesh.co)
+[![twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)](https://itsrakesh.co)
+[![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://itsrakesh.co)
+
+### 🧠 IDEs/Text Editors I use
+
+[![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]
+[![codesandbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)]
+[![xcode](https://img.shields.io/badge/XCode-3775A9?style=for-the-badge&logo=Xcode&logoColor=white)]
+
+### 💻 Workspace
+
+[![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)]
+[![mac](https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macOS&logoColor=white)]
+
+---
+
+### 🔝 Most used languages
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prince891028&theme=github_dark&hide_border=true&hide=Jupyter%20Notebook,css,html,scss,python&layout=compact" />
+
+---
