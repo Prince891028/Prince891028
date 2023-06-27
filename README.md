@@ -2,15 +2,15 @@
 
 <br />
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prince891028&column=8&theme=onedark"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=solution-delivery&column=8&theme=onedark"/>
 </p>
 
 ---
 
 ### 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Prince891028&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="rakesh's github stats" width="48%" align="right" >
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prince891028&theme=tokyonight&hide_border=true" alt="Prince's github streak" width="48%" >
+<img src="https://github-readme-stats.vercel.app/api?username=solution-delivery&include_all_commits=true&show_icons=true&theme=github_dark&hide_border=true" alt="rakesh's github stats" width="48%" align="right" >
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=solution-delivery&theme=tokyonight&hide_border=true" alt="Prince's github streak" width="48%" >
 
 ---
 
